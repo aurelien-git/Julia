@@ -2,7 +2,7 @@
 # Using set precision
 
 function calcula(x, y)
-    x/y
+    Float64(x/y)
 end
 
 #= use include("j0008.jl") from the julia> (itself launch from the same directory
