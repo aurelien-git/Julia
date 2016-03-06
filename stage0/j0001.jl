@@ -1,4 +1,4 @@
-println(PROGRAM_FILE);
+println();
 for x in ARGS;
     println(x);
 end
